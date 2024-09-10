@@ -6,7 +6,8 @@
 
 At the beginning you will see a menu with four buttons "start", "load", "edit", "exit". After pressing "start", a new game will start. After pressing "download", the previous game will be loaded. To change the game map, click "edit". To close the game, click "exit".
 
-![pluto_menu](uploads/1b019e74b561d996b938898c910b90b8/pluto_menu.png)
+![image](https://github.com/user-attachments/assets/3b434e8f-3a10-40e2-98da-183f211aa6fe)
+
 
 2. CONTROL
 
@@ -23,7 +24,8 @@ To open the door, take the key and go to the door.
 
 Use the "exit" to close the game. After exiting the game is saved automatically.
 
-![pluto_game_demo](uploads/6a8dcf2f599003c51e7d3f252b3c7d48/pluto_game_demo.png)
+![image](https://github.com/user-attachments/assets/6db3f5ba-b811-45d3-8aa5-f03b92ad2eb3)
+
 
 3. RULES
 
@@ -35,6 +37,6 @@ When you select the editor, a text file will open that will be a numeric map con
 
 To exit the editor mode, click on the cross, the changes will be saved automatically.
 
-## [UML Diagram](https://gitlab.fel.cvut.cz/B232_B0B36PJV/biriuolg/-/blob/main/uml-diagram.pdf?ref_type=heads)
+## [UML Diagram](https://github.com/olgabiriukova/java-pluto/blob/main/uml-diagram.pdf)
 
-## [Program Documentation](https://gitlab.fel.cvut.cz/B232_B0B36PJV/biriuolg/-/blob/main/program_documentation.pdf?ref_type=heads)
+## [Program Documentation](https://github.com/olgabiriukova/java-pluto/blob/main/program_documentation.pdf)
